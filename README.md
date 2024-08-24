@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebitSeby
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Enterprice applications
 - 📫 How to reach me through email sebitmu@gmail.com
 
